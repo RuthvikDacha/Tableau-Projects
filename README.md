@@ -55,46 +55,7 @@ This repository contains a collection of Tableau projects showcasing data visual
 - **Tableau**: Used for data visualization, dashboard creation, and storytelling.
 - **Datasets**: Various datasets (details included in project folders) processed and visualized to extract meaningful insights.
 
-## How to View the Projects
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/RuthvikDacha
-Navigate to the project folders to view:
-Dashboards, Workbook, and Story files (.pdf format).
-Dataset for analysis.
-Tableau workbook (.twbx) for interactive exploration.
-Open the Tableau workbook files (.twbx) in Tableau Desktop to explore the dashboards and visuals.
-Repository Structure
-mathematica
-Copy
-Edit
-tableau-projects/
-│
-├── BankCustomerDataAnalysis/
-│   ├── Dashboards.pdf
-│   ├── Workbook.pdf
-│   ├── Story.pdf
-│   ├── Dataset/
-│   ├── BankCustomerData.twbx
-│   └── ReadMe.md
-│
-├── SalesDataAnalysis/
-│   ├── Dashboards.pdf
-│   ├── Workbook.pdf
-│   ├── Story.pdf
-│   ├── Dataset/
-│   ├── SalesData.twbx
-│   └── ReadMe.md
-│
-├── WebDataAnalysis/
-│   ├── Dashboards.pdf
-│   ├── Workbook.pdf
-│   ├── Story.pdf
-│   ├── Dataset/
-│   ├── WebData.twbx
-│   └── ReadMe.md
-│
-└── README.md (This file)
+
 About Me
 I am a recent Business Analytics graduate with a passion for data visualization and storytelling. This repository is part of my portfolio, showcasing my skills in Tableau and data analysis.
 
