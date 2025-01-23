@@ -56,10 +56,10 @@ This repository contains a collection of Tableau projects showcasing data visual
 - **Datasets**: Various datasets (details included in project folders) processed and visualized to extract meaningful insights.
 
 
-About Me
+## About Me
 I am a recent Business Analytics graduate with a passion for data visualization and storytelling. This repository is part of my portfolio, showcasing my skills in Tableau and data analysis.
 
-Contact
+## Contact
 Email: dacha.ruthvik@gmail.com
 LinkedIn: linkedin.com/in/ruthvikdacha
 GitHub: github.com/RuthvikDacha
