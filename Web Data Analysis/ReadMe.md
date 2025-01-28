@@ -90,5 +90,3 @@ The dashboards and story created in this project provide actionable insights for
 [View the Interactive Tableau Workbook](https://public.tableau.com/app/profile/ruthvik.dacha/viz/WebAnalysisProject_17372173239040/WebAnalytics)
 
 ---
-
-Feel free to update this README with additional details, links, or screenshots as needed!
